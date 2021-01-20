@@ -1,3 +1,18 @@
+/*
+
+----------------------------------------------------------
+simple sketch for the start up sequence of a 
+Cyberpunk 2077 - Thermal Katana prop
+
+3d printable files here:
+https://www.thingiverse.com/thing:4730667
+
+and build video here:
+https://youtu.be/tmwMuNbyuO8
+----------------------------------------------------------
+
+*/
+
 #include <FastLED.h>                     // needed for WS2812B LEDs
 
 #define LED_PIN     4                    // which pin?
